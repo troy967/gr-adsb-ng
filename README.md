@@ -1,3 +1,5 @@
+After much stuffing around and a bit of a crash course in python, this module has been succesfully ported to gnuradio 3.10, 3.11 by John Telek. 
+For the moment just run the adsb_rx.py program on the command line as it uses ncurses and gnuradio doesn't play well with it. Enjoy.  :)
 
 # gr-adsb
 
@@ -8,8 +10,7 @@ A GNU Radio out-of-tree (OOT) module to demodulate and decode Automatic Dependen
 To clone the version of `gr-adsb` that is compatible with GNU Radio 3.10 (for example), run this command.
 
 ```bash
-$ git clone -b maint-3.10 https://github.com/mhostetter/gr-adsb
-```
+$ git clone --recursive https://github.com/troy967/gr-adsb-ng
 
 ## Features
 
