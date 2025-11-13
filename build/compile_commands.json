@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/dr/Code/tmp/gr-adsb/build/lib",
+  "command": "/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DFMT_SHARED -DGR_MPLIB_GMP -DGR_PERFORMANCE_COUNTERS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -Dgnuradio_adsb_EXPORTS -I/home/dr/Code/tmp/gr-adsb/lib/../include  -fvisibility=hidden -Wsign-compare -Wall -Wno-uninitialized -Wignored-qualifiers -Wcast-qual -O3 -DNDEBUG -std=c++17 -fPIC -o CMakeFiles/gnuradio-adsb.dir/qa_adsb.cc.o -c /home/dr/Code/tmp/gr-adsb/lib/qa_adsb.cc",
+  "file": "/home/dr/Code/tmp/gr-adsb/lib/qa_adsb.cc",
+  "output": "lib/CMakeFiles/gnuradio-adsb.dir/qa_adsb.cc.o"
+},
+{
+  "directory": "/home/dr/Code/tmp/gr-adsb/build/lib",
+  "command": "/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DFMT_SHARED -DGR_MPLIB_GMP -DGR_PERFORMANCE_COUNTERS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -Dgnuradio_adsb_EXPORTS -I/home/dr/Code/tmp/gr-adsb/lib/../include  -fvisibility=hidden -Wsign-compare -Wall -Wno-uninitialized -Wignored-qualifiers -Wcast-qual -O3 -DNDEBUG -std=c++17 -fPIC -o CMakeFiles/gnuradio-adsb.dir/test_adsb.cc.o -c /home/dr/Code/tmp/gr-adsb/lib/test_adsb.cc",
+  "file": "/home/dr/Code/tmp/gr-adsb/lib/test_adsb.cc",
+  "output": "lib/CMakeFiles/gnuradio-adsb.dir/test_adsb.cc.o"
+},
+{
+  "directory": "/home/dr/Code/tmp/gr-adsb/build/python/adsb/bindings",
+  "command": "/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_PROGRAM_OPTIONS_NO_LIB -DBOOST_REGEX_DYN_LINK -DBOOST_REGEX_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -DBOOST_THREAD_DYN_LINK -DBOOST_THREAD_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_NO_LIB -DFMT_SHARED -DGR_MPLIB_GMP -DGR_PERFORMANCE_COUNTERS -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -Dadsb_python_EXPORTS -I/home/dr/Code/tmp/gr-adsb/build/python/adsb/bindings -I/home/dr/Code/tmp/gr-adsb/python/adsb/bindings/../../../lib -I/home/dr/Code/tmp/gr-adsb/python/adsb/bindings/../../../include -I/home/dr/Code/tmp/gr-adsb/lib/../include -isystem /usr/include/python3.12 -isystem /usr/lib/python3/dist-packages/numpy/core/include  -fvisibility=hidden -Wsign-compare -Wall -Wno-uninitialized -Wignored-qualifiers -Wcast-qual -O3 -DNDEBUG -std=c++17 -fPIC -fvisibility=hidden -Wno-unused-variable -Wno-error=deprecated-declarations -flto -fno-fat-lto-objects -o CMakeFiles/adsb_python.dir/python_bindings.cc.o -c /home/dr/Code/tmp/gr-adsb/python/adsb/bindings/python_bindings.cc",
+  "file": "/home/dr/Code/tmp/gr-adsb/python/adsb/bindings/python_bindings.cc",
+  "output": "python/adsb/bindings/CMakeFiles/adsb_python.dir/python_bindings.cc.o"
+}
+]
